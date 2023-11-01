@@ -171,5 +171,3 @@ Example:
 This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
 ```
 
-Customize the sections, instructions, and placeholders according to the specifics of your website, and provide as much detail as needed to make it easy for others to understand and contribute.
-
